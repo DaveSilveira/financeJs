@@ -1,0 +1,15 @@
+*{
+    background-color: rgb(117, 169, 238);
+}
+#painel_de_entrada{
+    margin: auto;
+    width: 10%;
+    background-color: aqua;
+}
+input{
+    border-style: none;
+    background-color: aliceblue;
+}
+input:focus{
+    border-style: none;
+}
